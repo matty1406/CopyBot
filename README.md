@@ -1,4 +1,4 @@
-# Discord.js Bot:
+# Discord.js Copy Bot:
 
 A Discord bot that will copy any deleted message by a user of your choice. Made as a joke bot.
 
